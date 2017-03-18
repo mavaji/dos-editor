@@ -1,5 +1,5 @@
 # dos-editor
-A simple editor written for MS-DOS.It controls mouse events, simulates 3d effects, and handle menus and text scrolling from scratch.
+A simple editor written for MS-DOS. It controls mouse events, simulates 3d effects, and handles menus and text scrolling from scratch.
 
 #### Prerequisites
 You may have MS-DOS installed on bare metal or in VirtualBox. It doesn't work under Windows systems.
@@ -16,7 +16,7 @@ See: [Downloading Borland C++ 3.1](https://winworldpc.com/download/49068656-18DA
 We assume the following folder structure:
 ```text
 C:\BORLANDC
-C:\Grpedit.c
+C:\Grphedit.c
 C:\Dosedit.c
 C:\GMOUSE.com
 C:\GMOUSE.SYS
